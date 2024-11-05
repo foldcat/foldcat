@@ -1,3 +1,3 @@
 # foldcat
 
-does Scala and Clojure
+writes code
